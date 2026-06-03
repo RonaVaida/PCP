@@ -1,0 +1,109 @@
+==============================================================
+  POWER CODE PERFORMANCE — HOW TO USE YOUR WEBSITE
+==============================================================
+
+FOLDER STRUCTURE
+----------------
+powercode-performance/
+  index.html          ← Home page (brands grid)
+  brand.html          ← Models for a selected brand
+  model.html          ← Stage specs for a selected model
+  contact.html        ← Contact form + WhatsApp
+  style.css           ← All styling
+  app.js              ← Data loader
+  data.json           ← Generated from Excel — DO NOT EDIT MANUALLY
+  cars.xlsx           ← YOUR MASTER DATABASE — edit this
+  generate_json.py    ← Run this after every Excel edit
+  images/
+    logo.png          ← PCP logo (already copied)
+    brands/           ← Drop brand logo PNGs here
+    models/           ← Drop car photo JPGs here
+
+==============================================================
+  EDITING YOUR DATA
+==============================================================
+
+1. Open  cars.xlsx  in Excel or Numbers.
+
+   Sheet: Brands
+   - Add or edit brand rows
+   - logo_file = the filename you will put in images/brands/
+     (e.g.  audi.png)
+
+   Sheet: Engines
+   - Each unique engine gets ONE row
+   - engine_id = short unique code (no spaces), e.g. vag_20tdi_150
+   - engine_name = display name, e.g. "2.0 TDI 150hp (EA288)"
+   TIP: If multiple models share the same engine, use the SAME engine_id
+        on all those models. Editing engine stages updates ALL of them.
+
+   Sheet: Models
+   - One row per car model
+   - engine_id must match an engine in the Engines sheet
+   - year_to can be empty (means "present")
+   - photo_file = filename in images/models/ (can be empty)
+
+   Sheet: Stages
+   - One row per (engine_id × stage) combination
+   - stage = 1, 2, or 3
+   - Leave tuned_hp EMPTY if that stage is not yet available
+     → will show "Coming Soon" on the website
+
+2. Save cars.xlsx.
+
+3. Run the converter:
+     python3 generate_json.py
+   This writes data.json which the website reads.
+
+4. Reload the website in your browser — done!
+
+==============================================================
+  ADDING IMAGES
+==============================================================
+
+Brand logos → images/brands/audi.png  (match the logo_file value)
+  - Recommended: square or landscape PNG with transparency
+  - Recommended size: 300×200 px or larger
+
+Car photos  → images/models/bmw_320d.jpg  (match the photo_file value)
+  - Recommended: landscape JPG
+  - Recommended size: 800×500 px or larger
+
+==============================================================
+  PREVIEWING LOCALLY
+==============================================================
+
+Because the site uses fetch() to load data.json it needs a local
+web server. The easiest way:
+
+  cd powercode-performance
+  python3 -m http.server 8000
+
+Then open:  http://localhost:8000
+
+==============================================================
+  DEPLOYING ONLINE (FREE)
+==============================================================
+
+Option A — Netlify (recommended, free)
+  1. Go to https://netlify.com and sign up (free)
+  2. Drag & drop the entire powercode-performance/ folder
+     onto the Netlify dashboard
+  3. You get a live URL instantly
+  4. To update: drag & drop again with the new data.json
+
+Option B — GitHub Pages
+  1. Create a repo on https://github.com
+  2. Push the folder contents
+  3. Enable GitHub Pages in repo Settings
+
+==============================================================
+  CONTACT FORM
+==============================================================
+
+The form uses FormSubmit (https://formsubmit.co) — free service.
+First submission will send you a confirmation email to:
+  info@pitstop.co.il
+You must click the link in that email to activate the form.
+
+==============================================================

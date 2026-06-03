@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Brand — Power Code Performance</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="header-inner">
+      <a class="logo-wrap" href="index.html">
+        <img src="images/logo.png" alt="Power Code Performance" />
+        <span class="tagline">by PitStop</span>
+      </a>
+      <nav>
+        <a href="index.html">Brands</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- MAIN -->
+  <main>
+    <div class="breadcrumb" id="breadcrumb">
+      <a href="index.html">Brands</a>
+      <span>›</span>
+      <span id="breadcrumbBrand">Loading…</span>
+    </div>
+
+    <div id="brandHeader"></div>
+
+    <div class="section-title" id="modelsTitle">Models</div>
+    <div class="models-list" id="modelsList">
+      <div class="loading">Loading models…</div>
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-logo"><img src="images/logo.png" alt="PCP" /></div>
+      <div class="footer-copy">&copy; 2024 <span>Power Code Performance</span> — by PitStop. All rights reserved.</div>
+    </div>
+  </footer>
+
+  <!-- WHATSAPP FLOAT -->
+  <a class="whatsapp-float" href="https://wa.me/972549326225" target="_blank" title="Chat on WhatsApp">
+    <svg width="28" height="28" viewBox="0 0 32 32" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <path d="M16 2C8.268 2 2 8.268 2 16c0 2.46.643 4.767 1.77 6.77L2 30l7.44-1.74A13.94 13.94 0 0016 30c7.732 0 14-6.268 14-14S23.732 2 16 2zm0 25.6a11.55 11.55 0 01-5.9-1.61l-.42-.25-4.42 1.03 1.06-4.3-.28-.44A11.56 11.56 0 014.4 16c0-6.4 5.2-11.6 11.6-11.6S27.6 9.6 27.6 16 22.4 27.6 16 27.6zm6.36-8.68c-.35-.17-2.07-1.02-2.39-1.14-.32-.12-.55-.17-.78.17-.23.35-.9 1.14-1.1 1.37-.2.23-.4.26-.75.09-.35-.17-1.48-.55-2.82-1.74-1.04-.93-1.74-2.08-1.95-2.43-.2-.35-.02-.54.15-.71.16-.16.35-.4.52-.6.17-.2.23-.35.35-.58.12-.23.06-.43-.03-.6-.09-.17-.78-1.88-1.07-2.57-.28-.68-.57-.58-.78-.59h-.66c-.23 0-.6.09-.91.43-.32.35-1.2 1.17-1.2 2.86s1.23 3.32 1.4 3.55c.17.23 2.42 3.7 5.87 5.19.82.35 1.46.56 1.96.72.82.26 1.57.22 2.16.13.66-.1 2.07-.85 2.36-1.66.29-.82.29-1.52.2-1.66-.08-.14-.31-.23-.66-.4z"/>
+    </svg>
+  </a>
+
+  <script src="app.js"></script>
+  <script>
+    const params = new URLSearchParams(location.search);
+    const brandId = params.get('brand');
+
+    loadData().then(data => {
+      const brand = data.brands.find(b => b.brand_id === brandId);
+      if (!brand) {
+        document.getElementById('modelsList').innerHTML = '<div class="empty-state"><h3>Brand not found</h3><p><a href="index.html" style="color:var(--red)">← Back to brands</a></p></div>';
+        return;
+      }
+
+      document.title = `${brand.brand_name} — Power Code Performance`;
+      document.getElementById('breadcrumbBrand').textContent = brand.brand_name;
+
+      // Brand header
+      const logoHtml = brand.logo_file
+        ? `<img class="brand-header-logo" src="images/brands/${brand.logo_file}" alt="${brand.brand_name}" onerror="this.style.display='none'" />`
+        : '';
+      const models = data.models.filter(m => m.brand_id === brandId);
+      document.getElementById('brandHeader').innerHTML = `
+        <div class="brand-header">
+          ${logoHtml}
+          <div class="brand-header-info">
+            <h2>${brand.brand_name}</h2>
+            <p>${models.length} model${models.length !== 1 ? 's' : ''} available</p>
+          </div>
+        </div>`;
+
+      // Models list
+      if (!models.length) {
+        document.getElementById('modelsList').innerHTML = '<div class="empty-state"><h3>No models yet</h3><p>Check back soon.</p></div>';
+        return;
+      }
+
+      document.getElementById('modelsList').innerHTML = models.map(m => {
+        const engine = data.engines[m.engine_id] || {};
+        const stageData = data.stages[m.engine_id] || {};
+        const stageBadges = [1, 2, 3].map(s => {
+          const available = stageData[s] && stageData[s].tuned_hp;
+          return `<span class="stage-badge ${available ? 'available' : 'soon'}">Stage ${s}${available ? '' : ' — Soon'}</span>`;
+        }).join('');
+
+        const photoHtml = m.photo_file
+          ? `<img class="model-photo" src="images/models/${m.photo_file}" alt="${m.model_name}" onerror="this.outerHTML='<div class=\\'model-photo-placeholder\\'>No photo</div>'" />`
+          : `<div class="model-photo-placeholder">No photo</div>`;
+
+        const yearRange = m.year_from ? `${m.year_from}${m.year_to ? ' – ' + m.year_to : '+'}` : '';
+        const engineLabel = engine.engine_name || m.engine_id || '';
+
+        return `
+          <a class="model-card" href="model.html?model=${encodeURIComponent(m.model_id)}">
+            ${photoHtml}
+            <div class="model-info">
+              <h3>${m.model_name}</h3>
+              <div class="meta">${[engineLabel, yearRange].filter(Boolean).join(' · ')}</div>
+              <div class="model-stages">${stageBadges}</div>
+            </div>
+            <div class="model-arrow">›</div>
+          </a>`;
+      }).join('');
+    });
+  </script>
+</body>
+</html>

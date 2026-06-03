@@ -1,0 +1,5478 @@
+{
+  "brands": [
+    {
+      "brand_id": "alfa_romeo",
+      "brand_name": "Alfa Romeo",
+      "logo_file": "alfa_romeo.png"
+    },
+    {
+      "brand_id": "audi",
+      "brand_name": "Audi",
+      "logo_file": "audi.png"
+    },
+    {
+      "brand_id": "bmw",
+      "brand_name": "BMW",
+      "logo_file": "bmw.png"
+    },
+    {
+      "brand_id": "citroen",
+      "brand_name": "Citroën",
+      "logo_file": "citroen.png"
+    },
+    {
+      "brand_id": "cupra",
+      "brand_name": "Cupra",
+      "logo_file": "cupra.png"
+    },
+    {
+      "brand_id": "dacia",
+      "brand_name": "Dacia",
+      "logo_file": "dacia.png"
+    },
+    {
+      "brand_id": "fiat",
+      "brand_name": "Fiat",
+      "logo_file": "fiat.png"
+    },
+    {
+      "brand_id": "ford",
+      "brand_name": "Ford",
+      "logo_file": "ford.png"
+    },
+    {
+      "brand_id": "honda",
+      "brand_name": "Honda",
+      "logo_file": "honda.png"
+    },
+    {
+      "brand_id": "hyundai",
+      "brand_name": "Hyundai",
+      "logo_file": "hyundai.png"
+    },
+    {
+      "brand_id": "infiniti",
+      "brand_name": "Infiniti",
+      "logo_file": "infiniti.png"
+    },
+    {
+      "brand_id": "jaguar",
+      "brand_name": "Jaguar",
+      "logo_file": "jaguar.png"
+    },
+    {
+      "brand_id": "kia",
+      "brand_name": "Kia",
+      "logo_file": "kia.png"
+    },
+    {
+      "brand_id": "lamborghini",
+      "brand_name": "Lamborghini",
+      "logo_file": "lamborghini.png"
+    },
+    {
+      "brand_id": "landrover",
+      "brand_name": "Land Rover",
+      "logo_file": "landrover.png"
+    },
+    {
+      "brand_id": "mazda",
+      "brand_name": "Mazda",
+      "logo_file": "mazda.png"
+    },
+    {
+      "brand_id": "mercedes",
+      "brand_name": "Mercedes",
+      "logo_file": "mercedes.png"
+    },
+    {
+      "brand_id": "mini",
+      "brand_name": "MINI",
+      "logo_file": "mini.png"
+    },
+    {
+      "brand_id": "mitsubishi",
+      "brand_name": "Mitsubishi",
+      "logo_file": "mitsubishi.png"
+    },
+    {
+      "brand_id": "nissan",
+      "brand_name": "Nissan",
+      "logo_file": "nissan.png"
+    },
+    {
+      "brand_id": "opel",
+      "brand_name": "Opel",
+      "logo_file": "opel.png"
+    },
+    {
+      "brand_id": "peugeot",
+      "brand_name": "Peugeot",
+      "logo_file": "peugeot.png"
+    },
+    {
+      "brand_id": "porsche",
+      "brand_name": "Porsche",
+      "logo_file": "porsche.png"
+    },
+    {
+      "brand_id": "renault",
+      "brand_name": "Renault",
+      "logo_file": "renault.png"
+    },
+    {
+      "brand_id": "saab",
+      "brand_name": "Saab",
+      "logo_file": "saab.png"
+    },
+    {
+      "brand_id": "seat",
+      "brand_name": "SEAT",
+      "logo_file": "seat.png"
+    },
+    {
+      "brand_id": "skoda",
+      "brand_name": "Skoda",
+      "logo_file": "skoda.png"
+    },
+    {
+      "brand_id": "subaru",
+      "brand_name": "Subaru",
+      "logo_file": "subaru.png"
+    },
+    {
+      "brand_id": "suzuki",
+      "brand_name": "Suzuki",
+      "logo_file": "suzuki.png"
+    },
+    {
+      "brand_id": "toyota",
+      "brand_name": "Toyota",
+      "logo_file": "toyota.png"
+    },
+    {
+      "brand_id": "volkswagen",
+      "brand_name": "Volkswagen",
+      "logo_file": "volkswagen.png"
+    },
+    {
+      "brand_id": "volvo",
+      "brand_name": "Volvo",
+      "logo_file": "volvo.png"
+    }
+  ],
+  "models": [
+    {
+      "model_id": "alfa_romeo_147",
+      "brand_id": "alfa_romeo",
+      "model_name": "147",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_156",
+      "brand_id": "alfa_romeo",
+      "model_name": "156",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_159",
+      "brand_id": "alfa_romeo",
+      "model_name": "159",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_166",
+      "brand_id": "alfa_romeo",
+      "model_name": "166",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_4c",
+      "brand_id": "alfa_romeo",
+      "model_name": "4C",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_brennero",
+      "brand_id": "alfa_romeo",
+      "model_name": "Brennero",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_brera",
+      "brand_id": "alfa_romeo",
+      "model_name": "Brera",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_crosswagon",
+      "brand_id": "alfa_romeo",
+      "model_name": "CrossWagon",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_giulia",
+      "brand_id": "alfa_romeo",
+      "model_name": "Giulia",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_giulietta",
+      "brand_id": "alfa_romeo",
+      "model_name": "Giulietta",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_gt",
+      "brand_id": "alfa_romeo",
+      "model_name": "GT",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_junior",
+      "brand_id": "alfa_romeo",
+      "model_name": "Junior",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_milano",
+      "brand_id": "alfa_romeo",
+      "model_name": "Milano",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_mito",
+      "brand_id": "alfa_romeo",
+      "model_name": "MiTo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_spider",
+      "brand_id": "alfa_romeo",
+      "model_name": "Spider",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_stelvio",
+      "brand_id": "alfa_romeo",
+      "model_name": "Stelvio",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "alfa_romeo_tonale",
+      "brand_id": "alfa_romeo",
+      "model_name": "Tonale",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_a1",
+      "brand_id": "audi",
+      "model_name": "A1",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_a2",
+      "brand_id": "audi",
+      "model_name": "A2",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_a3",
+      "brand_id": "audi",
+      "model_name": "A3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_a4",
+      "brand_id": "audi",
+      "model_name": "A4",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_a4_cabrio",
+      "brand_id": "audi",
+      "model_name": "A4 Cabrio",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_a5",
+      "brand_id": "audi",
+      "model_name": "A5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_a6",
+      "brand_id": "audi",
+      "model_name": "A6",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_a6_e_tron",
+      "brand_id": "audi",
+      "model_name": "A6 e-Tron",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_a7",
+      "brand_id": "audi",
+      "model_name": "A7",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_a8",
+      "brand_id": "audi",
+      "model_name": "A8",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_e_tron",
+      "brand_id": "audi",
+      "model_name": "e-Tron",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_e_tron_gt",
+      "brand_id": "audi",
+      "model_name": "e-Tron GT",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_q2",
+      "brand_id": "audi",
+      "model_name": "Q2",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_q3",
+      "brand_id": "audi",
+      "model_name": "Q3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_q4_e_tron",
+      "brand_id": "audi",
+      "model_name": "Q4 e-Tron",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_q5",
+      "brand_id": "audi",
+      "model_name": "Q5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_q6",
+      "brand_id": "audi",
+      "model_name": "Q6",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_q6_e_tron",
+      "brand_id": "audi",
+      "model_name": "Q6 e-Tron",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_q7",
+      "brand_id": "audi",
+      "model_name": "Q7",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_q8",
+      "brand_id": "audi",
+      "model_name": "Q8",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_q8_e_tron",
+      "brand_id": "audi",
+      "model_name": "Q8 E-Tron",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_r8",
+      "brand_id": "audi",
+      "model_name": "R8",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_rs3",
+      "brand_id": "audi",
+      "model_name": "RS3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_rsq3",
+      "brand_id": "audi",
+      "model_name": "RSQ3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_rs4",
+      "brand_id": "audi",
+      "model_name": "RS4",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_rs5",
+      "brand_id": "audi",
+      "model_name": "RS5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_rs6",
+      "brand_id": "audi",
+      "model_name": "RS6",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_rs7",
+      "brand_id": "audi",
+      "model_name": "RS7",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_rsq8",
+      "brand_id": "audi",
+      "model_name": "RSQ8",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_s1",
+      "brand_id": "audi",
+      "model_name": "S1",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_s3",
+      "brand_id": "audi",
+      "model_name": "S3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_s4",
+      "brand_id": "audi",
+      "model_name": "S4",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_s5",
+      "brand_id": "audi",
+      "model_name": "S5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_s6",
+      "brand_id": "audi",
+      "model_name": "S6",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_s6_e_tron",
+      "brand_id": "audi",
+      "model_name": "S6 e-Tron",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_s7",
+      "brand_id": "audi",
+      "model_name": "S7",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_s8",
+      "brand_id": "audi",
+      "model_name": "S8",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_sq2",
+      "brand_id": "audi",
+      "model_name": "SQ2",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_sq5",
+      "brand_id": "audi",
+      "model_name": "SQ5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_sq6_e_tron",
+      "brand_id": "audi",
+      "model_name": "SQ6 e-Tron",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_sq7",
+      "brand_id": "audi",
+      "model_name": "SQ7",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_sq8",
+      "brand_id": "audi",
+      "model_name": "SQ8",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_tt",
+      "brand_id": "audi",
+      "model_name": "TT",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_tt_s",
+      "brand_id": "audi",
+      "model_name": "TT S",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "audi_tt_rs",
+      "brand_id": "audi",
+      "model_name": "TT RS",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_i3",
+      "brand_id": "bmw",
+      "model_name": "i3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_i4",
+      "brand_id": "bmw",
+      "model_name": "i4",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_i7",
+      "brand_id": "bmw",
+      "model_name": "i7",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_i8",
+      "brand_id": "bmw",
+      "model_name": "i8",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_ix",
+      "brand_id": "bmw",
+      "model_name": "iX",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_ix1",
+      "brand_id": "bmw",
+      "model_name": "iX1",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_ix3",
+      "brand_id": "bmw",
+      "model_name": "iX3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_1",
+      "brand_id": "bmw",
+      "model_name": "Serie 1",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_2",
+      "brand_id": "bmw",
+      "model_name": "Serie 2",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_2_gc",
+      "brand_id": "bmw",
+      "model_name": "Serie 2 GC",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_2_gran_active_tourer",
+      "brand_id": "bmw",
+      "model_name": "Serie 2 Gran/Active Tourer",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_3",
+      "brand_id": "bmw",
+      "model_name": "Serie 3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_3_gt",
+      "brand_id": "bmw",
+      "model_name": "Serie 3 GT",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_4",
+      "brand_id": "bmw",
+      "model_name": "Serie 4",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_4_gc",
+      "brand_id": "bmw",
+      "model_name": "Serie 4 GC",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_5",
+      "brand_id": "bmw",
+      "model_name": "Serie 5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_5_gt",
+      "brand_id": "bmw",
+      "model_name": "Serie 5 GT",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_6",
+      "brand_id": "bmw",
+      "model_name": "Serie 6",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_6_gc",
+      "brand_id": "bmw",
+      "model_name": "Serie 6 GC",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_6_gt",
+      "brand_id": "bmw",
+      "model_name": "Serie 6 GT",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_7",
+      "brand_id": "bmw",
+      "model_name": "Serie 7",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_8",
+      "brand_id": "bmw",
+      "model_name": "Serie 8",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_serie_8_gc",
+      "brand_id": "bmw",
+      "model_name": "Serie 8 GC",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_1m_coupé",
+      "brand_id": "bmw",
+      "model_name": "1M Coupé",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_m2",
+      "brand_id": "bmw",
+      "model_name": "M2",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_m3",
+      "brand_id": "bmw",
+      "model_name": "M3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_m4",
+      "brand_id": "bmw",
+      "model_name": "M4",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_m5",
+      "brand_id": "bmw",
+      "model_name": "M5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_m6",
+      "brand_id": "bmw",
+      "model_name": "M6",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_m8",
+      "brand_id": "bmw",
+      "model_name": "M8",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_x1",
+      "brand_id": "bmw",
+      "model_name": "X1",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_x2",
+      "brand_id": "bmw",
+      "model_name": "X2",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_x3",
+      "brand_id": "bmw",
+      "model_name": "X3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_x3_m",
+      "brand_id": "bmw",
+      "model_name": "X3 M",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_x4",
+      "brand_id": "bmw",
+      "model_name": "X4",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_x4_m",
+      "brand_id": "bmw",
+      "model_name": "X4 M",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_x5",
+      "brand_id": "bmw",
+      "model_name": "X5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_x5_m",
+      "brand_id": "bmw",
+      "model_name": "X5 M",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_x6",
+      "brand_id": "bmw",
+      "model_name": "X6",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_x6_m",
+      "brand_id": "bmw",
+      "model_name": "X6 M",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_x7",
+      "brand_id": "bmw",
+      "model_name": "X7",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_xm",
+      "brand_id": "bmw",
+      "model_name": "XM",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_z3",
+      "brand_id": "bmw",
+      "model_name": "Z3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_z4",
+      "brand_id": "bmw",
+      "model_name": "Z4",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "bmw_z8",
+      "brand_id": "bmw",
+      "model_name": "Z8",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_ami",
+      "brand_id": "citroen",
+      "model_name": "Ami",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_berlingo",
+      "brand_id": "citroen",
+      "model_name": "Berlingo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c_crosser",
+      "brand_id": "citroen",
+      "model_name": "C-Crosser",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c_elysée",
+      "brand_id": "citroen",
+      "model_name": "C-Elysée",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c1",
+      "brand_id": "citroen",
+      "model_name": "C1",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c2",
+      "brand_id": "citroen",
+      "model_name": "C2",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c3",
+      "brand_id": "citroen",
+      "model_name": "C3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c3_aircross",
+      "brand_id": "citroen",
+      "model_name": "C3 Aircross",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c3_picasso",
+      "brand_id": "citroen",
+      "model_name": "C3 Picasso",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c4",
+      "brand_id": "citroen",
+      "model_name": "C4",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c4_aircross",
+      "brand_id": "citroen",
+      "model_name": "C4 Aircross",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c4_cactus",
+      "brand_id": "citroen",
+      "model_name": "C4 Cactus",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c4_picasso_space_tourer",
+      "brand_id": "citroen",
+      "model_name": "C4 Picasso / Space Tourer",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c4x",
+      "brand_id": "citroen",
+      "model_name": "C4X",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c5_c5_aircross",
+      "brand_id": "citroen",
+      "model_name": "C5 / C5 Aircross",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c5x",
+      "brand_id": "citroen",
+      "model_name": "C5X",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c6",
+      "brand_id": "citroen",
+      "model_name": "C6",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_c8",
+      "brand_id": "citroen",
+      "model_name": "C8",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_ds3",
+      "brand_id": "citroen",
+      "model_name": "DS3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_ds4",
+      "brand_id": "citroen",
+      "model_name": "DS4",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_ds5",
+      "brand_id": "citroen",
+      "model_name": "DS5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_jumper",
+      "brand_id": "citroen",
+      "model_name": "Jumper",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_jumpy_spacetourer",
+      "brand_id": "citroen",
+      "model_name": "Jumpy / SpaceTourer",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_nemo",
+      "brand_id": "citroen",
+      "model_name": "Nemo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "citroen_picasso",
+      "brand_id": "citroen",
+      "model_name": "Picasso",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "cupra_ateca",
+      "brand_id": "cupra",
+      "model_name": "Ateca",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "cupra_born",
+      "brand_id": "cupra",
+      "model_name": "Born",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "cupra_formentor",
+      "brand_id": "cupra",
+      "model_name": "Formentor",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "cupra_leon",
+      "brand_id": "cupra",
+      "model_name": "Leon",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "cupra_tavascan",
+      "brand_id": "cupra",
+      "model_name": "Tavascan",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "cupra_terramar",
+      "brand_id": "cupra",
+      "model_name": "Terramar",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "dacia_bigster",
+      "brand_id": "dacia",
+      "model_name": "Bigster",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "dacia_dokker",
+      "brand_id": "dacia",
+      "model_name": "Dokker",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "dacia_duster",
+      "brand_id": "dacia",
+      "model_name": "Duster",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "dacia_jogger",
+      "brand_id": "dacia",
+      "model_name": "Jogger",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "dacia_lodgy",
+      "brand_id": "dacia",
+      "model_name": "Lodgy",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "dacia_logan",
+      "brand_id": "dacia",
+      "model_name": "Logan",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "dacia_sandero",
+      "brand_id": "dacia",
+      "model_name": "Sandero",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "dacia_spring",
+      "brand_id": "dacia",
+      "model_name": "Spring",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_124_spider",
+      "brand_id": "fiat",
+      "model_name": "124 Spider",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_500_595_695",
+      "brand_id": "fiat",
+      "model_name": "500 / 595 / 695",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_500l",
+      "brand_id": "fiat",
+      "model_name": "500L",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_500x",
+      "brand_id": "fiat",
+      "model_name": "500X",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_600",
+      "brand_id": "fiat",
+      "model_name": "600",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_brava",
+      "brand_id": "fiat",
+      "model_name": "Brava",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_bravo",
+      "brand_id": "fiat",
+      "model_name": "Bravo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_croma",
+      "brand_id": "fiat",
+      "model_name": "Croma",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_doblo",
+      "brand_id": "fiat",
+      "model_name": "Doblo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_ducato",
+      "brand_id": "fiat",
+      "model_name": "Ducato",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_fiorino",
+      "brand_id": "fiat",
+      "model_name": "Fiorino",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_freemont",
+      "brand_id": "fiat",
+      "model_name": "Freemont",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_grande_panda",
+      "brand_id": "fiat",
+      "model_name": "Grande Panda",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_grande_punto",
+      "brand_id": "fiat",
+      "model_name": "Grande Punto",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_idea",
+      "brand_id": "fiat",
+      "model_name": "Idea",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_linea",
+      "brand_id": "fiat",
+      "model_name": "Linea",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_marea",
+      "brand_id": "fiat",
+      "model_name": "Marea",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_multipla",
+      "brand_id": "fiat",
+      "model_name": "Multipla",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_panda",
+      "brand_id": "fiat",
+      "model_name": "Panda",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_punto",
+      "brand_id": "fiat",
+      "model_name": "Punto",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_punto_evo",
+      "brand_id": "fiat",
+      "model_name": "Punto EVO",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_qubo",
+      "brand_id": "fiat",
+      "model_name": "Qubo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_scudo",
+      "brand_id": "fiat",
+      "model_name": "Scudo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_sedici",
+      "brand_id": "fiat",
+      "model_name": "Sedici",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_stilo",
+      "brand_id": "fiat",
+      "model_name": "Stilo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_talento",
+      "brand_id": "fiat",
+      "model_name": "Talento",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_tipo_tipo_cross",
+      "brand_id": "fiat",
+      "model_name": "Tipo / Tipo Cross",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "fiat_ulysse",
+      "brand_id": "fiat",
+      "model_name": "Ulysse",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_b_max",
+      "brand_id": "ford",
+      "model_name": "B-Max",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_bronco",
+      "brand_id": "ford",
+      "model_name": "Bronco",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_c_max",
+      "brand_id": "ford",
+      "model_name": "C-Max",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_ecosport",
+      "brand_id": "ford",
+      "model_name": "EcoSport",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_edge",
+      "brand_id": "ford",
+      "model_name": "Edge",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_escape",
+      "brand_id": "ford",
+      "model_name": "Escape",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_explorer",
+      "brand_id": "ford",
+      "model_name": "Explorer",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_f150",
+      "brand_id": "ford",
+      "model_name": "F150",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_f250",
+      "brand_id": "ford",
+      "model_name": "F250",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_f350",
+      "brand_id": "ford",
+      "model_name": "F350",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_fiesta",
+      "brand_id": "ford",
+      "model_name": "Fiesta",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_focus",
+      "brand_id": "ford",
+      "model_name": "Focus",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_fusion",
+      "brand_id": "ford",
+      "model_name": "Fusion",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_galaxy",
+      "brand_id": "ford",
+      "model_name": "Galaxy",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_gt",
+      "brand_id": "ford",
+      "model_name": "GT",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_ka_ka",
+      "brand_id": "ford",
+      "model_name": "Ka / Ka+",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_kuga",
+      "brand_id": "ford",
+      "model_name": "Kuga",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_maverick",
+      "brand_id": "ford",
+      "model_name": "Maverick",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_mondeo",
+      "brand_id": "ford",
+      "model_name": "Mondeo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_mustang",
+      "brand_id": "ford",
+      "model_name": "Mustang",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_mustang_mach_e",
+      "brand_id": "ford",
+      "model_name": "Mustang Mach-E",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_mustang_shelby",
+      "brand_id": "ford",
+      "model_name": "Mustang Shelby",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_puma",
+      "brand_id": "ford",
+      "model_name": "Puma",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_ranger",
+      "brand_id": "ford",
+      "model_name": "Ranger",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_s_max",
+      "brand_id": "ford",
+      "model_name": "S-Max",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_tourneo",
+      "brand_id": "ford",
+      "model_name": "Tourneo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_tourneo_connect",
+      "brand_id": "ford",
+      "model_name": "Tourneo Connect",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_tourneo_custom",
+      "brand_id": "ford",
+      "model_name": "Tourneo Custom",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_transit",
+      "brand_id": "ford",
+      "model_name": "Transit",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_transit_connect",
+      "brand_id": "ford",
+      "model_name": "Transit Connect",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "ford_transit_custom",
+      "brand_id": "ford",
+      "model_name": "Transit Custom",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "honda_accord",
+      "brand_id": "honda",
+      "model_name": "Accord",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "honda_civic",
+      "brand_id": "honda",
+      "model_name": "Civic",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "honda_cr_v",
+      "brand_id": "honda",
+      "model_name": "CR-V",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "honda_cr_z",
+      "brand_id": "honda",
+      "model_name": "CR-Z",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "honda_e",
+      "brand_id": "honda",
+      "model_name": "E",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "honda_fr_v",
+      "brand_id": "honda",
+      "model_name": "FR-V",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "honda_hr_v",
+      "brand_id": "honda",
+      "model_name": "HR-V",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "honda_jazz",
+      "brand_id": "honda",
+      "model_name": "Jazz",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "honda_nsx",
+      "brand_id": "honda",
+      "model_name": "NSX",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "honda_z_rv",
+      "brand_id": "honda",
+      "model_name": "Z-RV",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_accent",
+      "brand_id": "hyundai",
+      "model_name": "Accent",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_bayon",
+      "brand_id": "hyundai",
+      "model_name": "Bayon",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_elantra",
+      "brand_id": "hyundai",
+      "model_name": "Elantra",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_getz",
+      "brand_id": "hyundai",
+      "model_name": "Getz",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_grandeur",
+      "brand_id": "hyundai",
+      "model_name": "Grandeur",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_h_serie",
+      "brand_id": "hyundai",
+      "model_name": "H serie",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_ioniq",
+      "brand_id": "hyundai",
+      "model_name": "Ioniq",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_i10",
+      "brand_id": "hyundai",
+      "model_name": "i10",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_i20",
+      "brand_id": "hyundai",
+      "model_name": "i20",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_i30",
+      "brand_id": "hyundai",
+      "model_name": "i30",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_i40",
+      "brand_id": "hyundai",
+      "model_name": "i40",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_inster",
+      "brand_id": "hyundai",
+      "model_name": "Inster",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_ix20",
+      "brand_id": "hyundai",
+      "model_name": "ix20",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_ix35",
+      "brand_id": "hyundai",
+      "model_name": "ix35",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_ix55",
+      "brand_id": "hyundai",
+      "model_name": "ix55",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_kona",
+      "brand_id": "hyundai",
+      "model_name": "Kona",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_nexo",
+      "brand_id": "hyundai",
+      "model_name": "Nexo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_santa_fe",
+      "brand_id": "hyundai",
+      "model_name": "Santa Fe",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_sonata",
+      "brand_id": "hyundai",
+      "model_name": "Sonata",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_staria",
+      "brand_id": "hyundai",
+      "model_name": "Staria",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_tucson",
+      "brand_id": "hyundai",
+      "model_name": "Tucson",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "hyundai_veloster",
+      "brand_id": "hyundai",
+      "model_name": "Veloster",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "infiniti_ex",
+      "brand_id": "infiniti",
+      "model_name": "EX",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "infiniti_fx",
+      "brand_id": "infiniti",
+      "model_name": "FX",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "infiniti_g37_m37",
+      "brand_id": "infiniti",
+      "model_name": "G37/M37",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "infiniti_m",
+      "brand_id": "infiniti",
+      "model_name": "M",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "infiniti_q30",
+      "brand_id": "infiniti",
+      "model_name": "Q30",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "infiniti_q50",
+      "brand_id": "infiniti",
+      "model_name": "Q50",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "infiniti_q60",
+      "brand_id": "infiniti",
+      "model_name": "Q60",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "infiniti_q70",
+      "brand_id": "infiniti",
+      "model_name": "Q70",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "infiniti_qx30",
+      "brand_id": "infiniti",
+      "model_name": "QX30",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "infiniti_qx60",
+      "brand_id": "infiniti",
+      "model_name": "QX60",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "infiniti_qx70",
+      "brand_id": "infiniti",
+      "model_name": "QX70",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "jaguar_e_pace",
+      "brand_id": "jaguar",
+      "model_name": "E-Pace",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "jaguar_f_pace",
+      "brand_id": "jaguar",
+      "model_name": "F-Pace",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "jaguar_f_type_s",
+      "brand_id": "jaguar",
+      "model_name": "F-Type / S",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "jaguar_i_pace",
+      "brand_id": "jaguar",
+      "model_name": "I-Pace",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "jaguar_s_type",
+      "brand_id": "jaguar",
+      "model_name": "S-Type",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "jaguar_x_type",
+      "brand_id": "jaguar",
+      "model_name": "X-Type",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "jaguar_xe",
+      "brand_id": "jaguar",
+      "model_name": "XE",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "jaguar_xf",
+      "brand_id": "jaguar",
+      "model_name": "XF",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "jaguar_xj",
+      "brand_id": "jaguar",
+      "model_name": "XJ",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "jaguar_xk_coupé",
+      "brand_id": "jaguar",
+      "model_name": "XK coupé",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "jaguar_xkr",
+      "brand_id": "jaguar",
+      "model_name": "XKR",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "jaguar_xkr_s",
+      "brand_id": "jaguar",
+      "model_name": "XKR-S",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_carens",
+      "brand_id": "kia",
+      "model_name": "Carens",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_carnival",
+      "brand_id": "kia",
+      "model_name": "Carnival",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_cee'd_pro_cee'd",
+      "brand_id": "kia",
+      "model_name": "Cee'd / Pro Cee'd",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_cerato",
+      "brand_id": "kia",
+      "model_name": "Cerato",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_ev6",
+      "brand_id": "kia",
+      "model_name": "EV6",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_magentis",
+      "brand_id": "kia",
+      "model_name": "Magentis",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_niro",
+      "brand_id": "kia",
+      "model_name": "Niro",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_optima",
+      "brand_id": "kia",
+      "model_name": "Optima",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_picanto",
+      "brand_id": "kia",
+      "model_name": "Picanto",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_rio",
+      "brand_id": "kia",
+      "model_name": "Rio",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_sorento",
+      "brand_id": "kia",
+      "model_name": "Sorento",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_soul",
+      "brand_id": "kia",
+      "model_name": "Soul",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_sportage",
+      "brand_id": "kia",
+      "model_name": "Sportage",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_stinger",
+      "brand_id": "kia",
+      "model_name": "Stinger",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_stonic",
+      "brand_id": "kia",
+      "model_name": "Stonic",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_venga",
+      "brand_id": "kia",
+      "model_name": "Venga",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "kia_x_ceed",
+      "brand_id": "kia",
+      "model_name": "X-Ceed",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "lamborghini_aventador",
+      "brand_id": "lamborghini",
+      "model_name": "Aventador",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "lamborghini_gallardo",
+      "brand_id": "lamborghini",
+      "model_name": "Gallardo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "lamborghini_huracan",
+      "brand_id": "lamborghini",
+      "model_name": "Huracan",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "lamborghini_murcielago",
+      "brand_id": "lamborghini",
+      "model_name": "Murcielago",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "lamborghini_urus",
+      "brand_id": "lamborghini",
+      "model_name": "Urus",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "landrover_defender",
+      "brand_id": "landrover",
+      "model_name": "Defender",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "landrover_discovery",
+      "brand_id": "landrover",
+      "model_name": "Discovery",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "landrover_discovery_sport",
+      "brand_id": "landrover",
+      "model_name": "Discovery Sport",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "landrover_evoque",
+      "brand_id": "landrover",
+      "model_name": "Evoque",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "landrover_freelander",
+      "brand_id": "landrover",
+      "model_name": "Freelander",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "landrover_range_rover_range_rover_sport",
+      "brand_id": "landrover",
+      "model_name": "Range Rover / Range Rover Sport",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "landrover_velar",
+      "brand_id": "landrover",
+      "model_name": "Velar",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mazda_bt_50",
+      "brand_id": "mazda",
+      "model_name": "BT-50",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mazda_cx_3",
+      "brand_id": "mazda",
+      "model_name": "CX-3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mazda_cx_30",
+      "brand_id": "mazda",
+      "model_name": "CX-30",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mazda_cx_5",
+      "brand_id": "mazda",
+      "model_name": "CX-5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mazda_cx_60",
+      "brand_id": "mazda",
+      "model_name": "CX-60",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mazda_cx_7",
+      "brand_id": "mazda",
+      "model_name": "CX-7",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mazda_cx_80",
+      "brand_id": "mazda",
+      "model_name": "CX-80",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mazda_mazda_2",
+      "brand_id": "mazda",
+      "model_name": "Mazda 2",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mazda_mazda_3",
+      "brand_id": "mazda",
+      "model_name": "Mazda 3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mazda_mazda_5",
+      "brand_id": "mazda",
+      "model_name": "Mazda 5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mazda_mazda_6",
+      "brand_id": "mazda",
+      "model_name": "Mazda 6",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mazda_mx5",
+      "brand_id": "mazda",
+      "model_name": "MX5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mazda_mx_30",
+      "brand_id": "mazda",
+      "model_name": "MX-30",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mazda_rx8",
+      "brand_id": "mazda",
+      "model_name": "RX8",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_a_a_berline",
+      "brand_id": "mercedes",
+      "model_name": "A / A Berline",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_amg_gt_coupé_roadster",
+      "brand_id": "mercedes",
+      "model_name": "AMG GT Coupé / Roadster",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_amg_gt_4_door_coupé",
+      "brand_id": "mercedes",
+      "model_name": "AMG GT 4-door Coupé",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_b",
+      "brand_id": "mercedes",
+      "model_name": "B",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_c",
+      "brand_id": "mercedes",
+      "model_name": "C",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_citan",
+      "brand_id": "mercedes",
+      "model_name": "Citan",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_cl",
+      "brand_id": "mercedes",
+      "model_name": "CL",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_cla",
+      "brand_id": "mercedes",
+      "model_name": "CLA",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_cle",
+      "brand_id": "mercedes",
+      "model_name": "CLE",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_clk",
+      "brand_id": "mercedes",
+      "model_name": "CLK",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_cls",
+      "brand_id": "mercedes",
+      "model_name": "CLS",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_e_e_coupé_all_terrain",
+      "brand_id": "mercedes",
+      "model_name": "E / E Coupé / All Terrain",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_eqa",
+      "brand_id": "mercedes",
+      "model_name": "EQA",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_eqb",
+      "brand_id": "mercedes",
+      "model_name": "EQB",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_eqc",
+      "brand_id": "mercedes",
+      "model_name": "EQC",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_eqe",
+      "brand_id": "mercedes",
+      "model_name": "EQE",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_eqs",
+      "brand_id": "mercedes",
+      "model_name": "EQS",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_eqt",
+      "brand_id": "mercedes",
+      "model_name": "EQT",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_eqv",
+      "brand_id": "mercedes",
+      "model_name": "EQV",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_g",
+      "brand_id": "mercedes",
+      "model_name": "G",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_gl",
+      "brand_id": "mercedes",
+      "model_name": "GL",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_gla",
+      "brand_id": "mercedes",
+      "model_name": "GLA",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_glb",
+      "brand_id": "mercedes",
+      "model_name": "GLB",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_glc_glc_coupé",
+      "brand_id": "mercedes",
+      "model_name": "GLC / GLC Coupé",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_glc_eq",
+      "brand_id": "mercedes",
+      "model_name": "GLC EQ",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_gle_gle_coupé",
+      "brand_id": "mercedes",
+      "model_name": "GLE / GLE Coupé",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_glk",
+      "brand_id": "mercedes",
+      "model_name": "GLK",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_gls",
+      "brand_id": "mercedes",
+      "model_name": "GLS",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_maybach",
+      "brand_id": "mercedes",
+      "model_name": "Maybach",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_ml",
+      "brand_id": "mercedes",
+      "model_name": "ML",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_r",
+      "brand_id": "mercedes",
+      "model_name": "R",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_s",
+      "brand_id": "mercedes",
+      "model_name": "S",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_sl",
+      "brand_id": "mercedes",
+      "model_name": "SL",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_slc",
+      "brand_id": "mercedes",
+      "model_name": "SLC",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_slk",
+      "brand_id": "mercedes",
+      "model_name": "SLK",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_sls",
+      "brand_id": "mercedes",
+      "model_name": "SLS",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_sprinter",
+      "brand_id": "mercedes",
+      "model_name": "Sprinter",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_t",
+      "brand_id": "mercedes",
+      "model_name": "T",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_v",
+      "brand_id": "mercedes",
+      "model_name": "V",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_viano",
+      "brand_id": "mercedes",
+      "model_name": "Viano",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_vito",
+      "brand_id": "mercedes",
+      "model_name": "Vito",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mercedes_x",
+      "brand_id": "mercedes",
+      "model_name": "X",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mini_aceman",
+      "brand_id": "mini",
+      "model_name": "Aceman",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mini_one_one_d",
+      "brand_id": "mini",
+      "model_name": "One / One D",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mini_clubman",
+      "brand_id": "mini",
+      "model_name": "Clubman",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mini_cooper",
+      "brand_id": "mini",
+      "model_name": "Cooper",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mini_cooper_s",
+      "brand_id": "mini",
+      "model_name": "Cooper S",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mini_cooper_s_d",
+      "brand_id": "mini",
+      "model_name": "Cooper S D",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mini_countryman",
+      "brand_id": "mini",
+      "model_name": "Countryman",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mini_paceman",
+      "brand_id": "mini",
+      "model_name": "Paceman",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mini_roadster_coupé",
+      "brand_id": "mini",
+      "model_name": "Roadster/Coupé",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mitsubishi_asx",
+      "brand_id": "mitsubishi",
+      "model_name": "ASX",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mitsubishi_carisma",
+      "brand_id": "mitsubishi",
+      "model_name": "Carisma",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mitsubishi_colt",
+      "brand_id": "mitsubishi",
+      "model_name": "Colt",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mitsubishi_eclipse",
+      "brand_id": "mitsubishi",
+      "model_name": "Eclipse",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mitsubishi_evo",
+      "brand_id": "mitsubishi",
+      "model_name": "EVO",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mitsubishi_grandis",
+      "brand_id": "mitsubishi",
+      "model_name": "Grandis",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mitsubishi_l200",
+      "brand_id": "mitsubishi",
+      "model_name": "L200",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mitsubishi_lancer",
+      "brand_id": "mitsubishi",
+      "model_name": "Lancer",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mitsubishi_outlander",
+      "brand_id": "mitsubishi",
+      "model_name": "Outlander",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "mitsubishi_pajero",
+      "brand_id": "mitsubishi",
+      "model_name": "Pajero",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_350z",
+      "brand_id": "nissan",
+      "model_name": "350Z",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_370z",
+      "brand_id": "nissan",
+      "model_name": "370Z",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_ariya",
+      "brand_id": "nissan",
+      "model_name": "Ariya",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_almera",
+      "brand_id": "nissan",
+      "model_name": "Almera",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_cube",
+      "brand_id": "nissan",
+      "model_name": "Cube",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_gtr",
+      "brand_id": "nissan",
+      "model_name": "GTR",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_juke",
+      "brand_id": "nissan",
+      "model_name": "Juke",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_leaf",
+      "brand_id": "nissan",
+      "model_name": "Leaf",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_micra",
+      "brand_id": "nissan",
+      "model_name": "Micra",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_murano",
+      "brand_id": "nissan",
+      "model_name": "Murano",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_note",
+      "brand_id": "nissan",
+      "model_name": "Note",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_np_300_navara",
+      "brand_id": "nissan",
+      "model_name": "NP 300 - Navara",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_nv200",
+      "brand_id": "nissan",
+      "model_name": "NV200",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_pathfinder",
+      "brand_id": "nissan",
+      "model_name": "Pathfinder",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_patrol",
+      "brand_id": "nissan",
+      "model_name": "Patrol",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_primera",
+      "brand_id": "nissan",
+      "model_name": "Primera",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_qashqai",
+      "brand_id": "nissan",
+      "model_name": "Qashqai",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_sentra",
+      "brand_id": "nissan",
+      "model_name": "Sentra",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_tiida",
+      "brand_id": "nissan",
+      "model_name": "Tiida",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_townstar",
+      "brand_id": "nissan",
+      "model_name": "Townstar",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "nissan_x_trail",
+      "brand_id": "nissan",
+      "model_name": "X-Trail",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_adam",
+      "brand_id": "opel",
+      "model_name": "Adam",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_agila",
+      "brand_id": "opel",
+      "model_name": "Agila",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_antara",
+      "brand_id": "opel",
+      "model_name": "Antara",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_astra",
+      "brand_id": "opel",
+      "model_name": "Astra",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_cascada",
+      "brand_id": "opel",
+      "model_name": "Cascada",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_combo",
+      "brand_id": "opel",
+      "model_name": "Combo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_corsa",
+      "brand_id": "opel",
+      "model_name": "Corsa",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_crossland",
+      "brand_id": "opel",
+      "model_name": "Crossland",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_crossland_x",
+      "brand_id": "opel",
+      "model_name": "Crossland X",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_frontera",
+      "brand_id": "opel",
+      "model_name": "Frontera",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_grandland",
+      "brand_id": "opel",
+      "model_name": "Grandland",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_grandland_x",
+      "brand_id": "opel",
+      "model_name": "Grandland X",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_gt",
+      "brand_id": "opel",
+      "model_name": "GT",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_insignia_insignia_grand_sport",
+      "brand_id": "opel",
+      "model_name": "Insignia / Insignia Grand Sport",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_meriva",
+      "brand_id": "opel",
+      "model_name": "Meriva",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_mokka",
+      "brand_id": "opel",
+      "model_name": "Mokka",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_movano",
+      "brand_id": "opel",
+      "model_name": "Movano",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_signum",
+      "brand_id": "opel",
+      "model_name": "Signum",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_tigra",
+      "brand_id": "opel",
+      "model_name": "Tigra",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_vectra",
+      "brand_id": "opel",
+      "model_name": "Vectra",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_vivaro",
+      "brand_id": "opel",
+      "model_name": "Vivaro",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_zafira",
+      "brand_id": "opel",
+      "model_name": "Zafira",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "opel_zafira_life",
+      "brand_id": "opel",
+      "model_name": "Zafira Life",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_107",
+      "brand_id": "peugeot",
+      "model_name": "107",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_108",
+      "brand_id": "peugeot",
+      "model_name": "108",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_206",
+      "brand_id": "peugeot",
+      "model_name": "206",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_207",
+      "brand_id": "peugeot",
+      "model_name": "207",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_208",
+      "brand_id": "peugeot",
+      "model_name": "208",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_2008",
+      "brand_id": "peugeot",
+      "model_name": "2008",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_306",
+      "brand_id": "peugeot",
+      "model_name": "306",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_307",
+      "brand_id": "peugeot",
+      "model_name": "307",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_308",
+      "brand_id": "peugeot",
+      "model_name": "308",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_3008",
+      "brand_id": "peugeot",
+      "model_name": "3008",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_406",
+      "brand_id": "peugeot",
+      "model_name": "406",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_407",
+      "brand_id": "peugeot",
+      "model_name": "407",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_408",
+      "brand_id": "peugeot",
+      "model_name": "408",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_508",
+      "brand_id": "peugeot",
+      "model_name": "508",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_5008",
+      "brand_id": "peugeot",
+      "model_name": "5008",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_607",
+      "brand_id": "peugeot",
+      "model_name": "607",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_807",
+      "brand_id": "peugeot",
+      "model_name": "807",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_bipper",
+      "brand_id": "peugeot",
+      "model_name": "Bipper",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_boxer",
+      "brand_id": "peugeot",
+      "model_name": "Boxer",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_expert_traveller",
+      "brand_id": "peugeot",
+      "model_name": "Expert / Traveller",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_partner",
+      "brand_id": "peugeot",
+      "model_name": "Partner",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_rcz",
+      "brand_id": "peugeot",
+      "model_name": "RCZ",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "peugeot_rifter",
+      "brand_id": "peugeot",
+      "model_name": "Rifter",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "porsche_911",
+      "brand_id": "porsche",
+      "model_name": "911",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "porsche_boxster",
+      "brand_id": "porsche",
+      "model_name": "Boxster",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "porsche_carrera_gt",
+      "brand_id": "porsche",
+      "model_name": "Carrera GT",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "porsche_cayenne",
+      "brand_id": "porsche",
+      "model_name": "Cayenne",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "porsche_cayman",
+      "brand_id": "porsche",
+      "model_name": "Cayman",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "porsche_macan",
+      "brand_id": "porsche",
+      "model_name": "Macan",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "porsche_panamera",
+      "brand_id": "porsche",
+      "model_name": "Panamera",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "porsche_taycan",
+      "brand_id": "porsche",
+      "model_name": "Taycan",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_alaskan",
+      "brand_id": "renault",
+      "model_name": "Alaskan",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_arkana",
+      "brand_id": "renault",
+      "model_name": "Arkana",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_austral",
+      "brand_id": "renault",
+      "model_name": "Austral",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_captur",
+      "brand_id": "renault",
+      "model_name": "Captur",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_clio",
+      "brand_id": "renault",
+      "model_name": "Clio",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_espace",
+      "brand_id": "renault",
+      "model_name": "Espace",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_fluence",
+      "brand_id": "renault",
+      "model_name": "Fluence",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_kadjar",
+      "brand_id": "renault",
+      "model_name": "Kadjar",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_kangoo",
+      "brand_id": "renault",
+      "model_name": "Kangoo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_koleos",
+      "brand_id": "renault",
+      "model_name": "Koleos",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_laguna",
+      "brand_id": "renault",
+      "model_name": "Laguna",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_latitude",
+      "brand_id": "renault",
+      "model_name": "Latitude",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_master",
+      "brand_id": "renault",
+      "model_name": "Master",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_megane",
+      "brand_id": "renault",
+      "model_name": "Megane",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_megane_e_tech",
+      "brand_id": "renault",
+      "model_name": "Megane E-Tech",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_modus",
+      "brand_id": "renault",
+      "model_name": "Modus",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_rafale",
+      "brand_id": "renault",
+      "model_name": "Rafale",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_r5",
+      "brand_id": "renault",
+      "model_name": "R5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_scenic_grand_scenic",
+      "brand_id": "renault",
+      "model_name": "Scenic / Grand Scenic",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_symbioz",
+      "brand_id": "renault",
+      "model_name": "Symbioz",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_talisman",
+      "brand_id": "renault",
+      "model_name": "Talisman",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_trafic",
+      "brand_id": "renault",
+      "model_name": "Trafic",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_twingo",
+      "brand_id": "renault",
+      "model_name": "Twingo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "renault_zoe",
+      "brand_id": "renault",
+      "model_name": "ZOE",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "saab_9_3",
+      "brand_id": "saab",
+      "model_name": "9-3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "saab_9_4x",
+      "brand_id": "saab",
+      "model_name": "9-4X",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "saab_9_5",
+      "brand_id": "saab",
+      "model_name": "9-5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "seat_alhambra",
+      "brand_id": "seat",
+      "model_name": "Alhambra",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "seat_altea",
+      "brand_id": "seat",
+      "model_name": "Altea",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "seat_altea_xl_freetrack",
+      "brand_id": "seat",
+      "model_name": "Altea XL / Freetrack",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "seat_arona",
+      "brand_id": "seat",
+      "model_name": "Arona",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "seat_ateca",
+      "brand_id": "seat",
+      "model_name": "Ateca",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "seat_cordoba",
+      "brand_id": "seat",
+      "model_name": "Cordoba",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "seat_exeo",
+      "brand_id": "seat",
+      "model_name": "Exeo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "seat_ibiza",
+      "brand_id": "seat",
+      "model_name": "Ibiza",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "seat_leon",
+      "brand_id": "seat",
+      "model_name": "Leon",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "seat_mii",
+      "brand_id": "seat",
+      "model_name": "Mii",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "seat_tarraco",
+      "brand_id": "seat",
+      "model_name": "Tarraco",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "seat_toledo",
+      "brand_id": "seat",
+      "model_name": "Toledo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "skoda_citigo",
+      "brand_id": "skoda",
+      "model_name": "Citigo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "skoda_elroq",
+      "brand_id": "skoda",
+      "model_name": "Elroq",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "skoda_enyaq",
+      "brand_id": "skoda",
+      "model_name": "Enyaq",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "skoda_fabia",
+      "brand_id": "skoda",
+      "model_name": "Fabia",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "skoda_kamiq",
+      "brand_id": "skoda",
+      "model_name": "Kamiq",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "skoda_karoq",
+      "brand_id": "skoda",
+      "model_name": "Karoq",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "skoda_kodiaq",
+      "brand_id": "skoda",
+      "model_name": "Kodiaq",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "skoda_kushaq",
+      "brand_id": "skoda",
+      "model_name": "Kushaq",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "skoda_octavia",
+      "brand_id": "skoda",
+      "model_name": "Octavia",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "skoda_rapid",
+      "brand_id": "skoda",
+      "model_name": "Rapid",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "skoda_roomster",
+      "brand_id": "skoda",
+      "model_name": "Roomster",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "skoda_scala",
+      "brand_id": "skoda",
+      "model_name": "Scala",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "skoda_superb",
+      "brand_id": "skoda",
+      "model_name": "Superb",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "skoda_yeti",
+      "brand_id": "skoda",
+      "model_name": "Yeti",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "subaru_brz",
+      "brand_id": "subaru",
+      "model_name": "BRZ",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "subaru_forester",
+      "brand_id": "subaru",
+      "model_name": "Forester",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "subaru_impreza",
+      "brand_id": "subaru",
+      "model_name": "Impreza",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "subaru_legacy",
+      "brand_id": "subaru",
+      "model_name": "Legacy",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "subaru_levorg",
+      "brand_id": "subaru",
+      "model_name": "Levorg",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "subaru_outback",
+      "brand_id": "subaru",
+      "model_name": "Outback",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "subaru_soltera",
+      "brand_id": "subaru",
+      "model_name": "Soltera",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "subaru_xv",
+      "brand_id": "subaru",
+      "model_name": "XV",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "suzuki_grand_vitara",
+      "brand_id": "suzuki",
+      "model_name": "Grand Vitara",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "suzuki_ignis",
+      "brand_id": "suzuki",
+      "model_name": "Ignis",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "suzuki_baleno",
+      "brand_id": "suzuki",
+      "model_name": "Baleno",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "suzuki_jimny",
+      "brand_id": "suzuki",
+      "model_name": "Jimny",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "suzuki_liana",
+      "brand_id": "suzuki",
+      "model_name": "Liana",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "suzuki_splash",
+      "brand_id": "suzuki",
+      "model_name": "Splash",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "suzuki_swace",
+      "brand_id": "suzuki",
+      "model_name": "Swace",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "suzuki_swift",
+      "brand_id": "suzuki",
+      "model_name": "Swift",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "suzuki_sx_4",
+      "brand_id": "suzuki",
+      "model_name": "SX-4",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "suzuki_sx_4_s_cross",
+      "brand_id": "suzuki",
+      "model_name": "SX-4 S-Cross",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "suzuki_vitara",
+      "brand_id": "suzuki",
+      "model_name": "Vitara",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_auris",
+      "brand_id": "toyota",
+      "model_name": "Auris",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_avensis",
+      "brand_id": "toyota",
+      "model_name": "Avensis",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_aygo",
+      "brand_id": "toyota",
+      "model_name": "Aygo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_aygo_x",
+      "brand_id": "toyota",
+      "model_name": "Aygo X",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_bz4x",
+      "brand_id": "toyota",
+      "model_name": "BZ4X",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_camry",
+      "brand_id": "toyota",
+      "model_name": "Camry",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_c_hr",
+      "brand_id": "toyota",
+      "model_name": "C-HR",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_corolla",
+      "brand_id": "toyota",
+      "model_name": "Corolla",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_gr86",
+      "brand_id": "toyota",
+      "model_name": "GR86",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_gt86",
+      "brand_id": "toyota",
+      "model_name": "GT86",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_hilux",
+      "brand_id": "toyota",
+      "model_name": "Hilux",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_iq",
+      "brand_id": "toyota",
+      "model_name": "IQ",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_land_cruiser",
+      "brand_id": "toyota",
+      "model_name": "Land Cruiser",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_mirai",
+      "brand_id": "toyota",
+      "model_name": "Mirai",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_prius_prius",
+      "brand_id": "toyota",
+      "model_name": "Prius / Prius+",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_proace_proace_verso",
+      "brand_id": "toyota",
+      "model_name": "ProAce / ProAce Verso",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_rav4",
+      "brand_id": "toyota",
+      "model_name": "Rav4",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_supra_gr",
+      "brand_id": "toyota",
+      "model_name": "Supra (GR)",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_urban_cruiser",
+      "brand_id": "toyota",
+      "model_name": "Urban Cruiser",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_verso",
+      "brand_id": "toyota",
+      "model_name": "Verso",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_yaris",
+      "brand_id": "toyota",
+      "model_name": "Yaris",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "toyota_yaris_cross",
+      "brand_id": "toyota",
+      "model_name": "Yaris Cross",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_amarok",
+      "brand_id": "volkswagen",
+      "model_name": "Amarok",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_arteon",
+      "brand_id": "volkswagen",
+      "model_name": "Arteon",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_atlas_teramont",
+      "brand_id": "volkswagen",
+      "model_name": "Atlas / Teramont",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_bora",
+      "brand_id": "volkswagen",
+      "model_name": "Bora",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_caddy",
+      "brand_id": "volkswagen",
+      "model_name": "Caddy",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_caravelle",
+      "brand_id": "volkswagen",
+      "model_name": "Caravelle",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_coccinelle_new_beetle",
+      "brand_id": "volkswagen",
+      "model_name": "Coccinelle / New Beetle",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_crafter",
+      "brand_id": "volkswagen",
+      "model_name": "Crafter",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_eos",
+      "brand_id": "volkswagen",
+      "model_name": "Eos",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_fox",
+      "brand_id": "volkswagen",
+      "model_name": "Fox",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_golf",
+      "brand_id": "volkswagen",
+      "model_name": "Golf",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_id_3",
+      "brand_id": "volkswagen",
+      "model_name": "ID.3",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_id_4",
+      "brand_id": "volkswagen",
+      "model_name": "ID.4",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_id_5",
+      "brand_id": "volkswagen",
+      "model_name": "ID.5",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_id_7",
+      "brand_id": "volkswagen",
+      "model_name": "ID.7",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_id_buzz",
+      "brand_id": "volkswagen",
+      "model_name": "ID.Buzz",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_jetta",
+      "brand_id": "volkswagen",
+      "model_name": "Jetta",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_lt",
+      "brand_id": "volkswagen",
+      "model_name": "LT",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_lupo",
+      "brand_id": "volkswagen",
+      "model_name": "Lupo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_multivan_california",
+      "brand_id": "volkswagen",
+      "model_name": "Multivan / California",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_passat",
+      "brand_id": "volkswagen",
+      "model_name": "Passat",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_passat_cc_cc",
+      "brand_id": "volkswagen",
+      "model_name": "Passat CC / CC",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_phaeton",
+      "brand_id": "volkswagen",
+      "model_name": "Phaeton",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_polo",
+      "brand_id": "volkswagen",
+      "model_name": "Polo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_scirocco",
+      "brand_id": "volkswagen",
+      "model_name": "Scirocco",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_sharan",
+      "brand_id": "volkswagen",
+      "model_name": "Sharan",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_t_cross",
+      "brand_id": "volkswagen",
+      "model_name": "T-Cross",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_t_roc",
+      "brand_id": "volkswagen",
+      "model_name": "T-Roc",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_taigo",
+      "brand_id": "volkswagen",
+      "model_name": "Taigo",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_tiguan",
+      "brand_id": "volkswagen",
+      "model_name": "Tiguan",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_touareg",
+      "brand_id": "volkswagen",
+      "model_name": "Touareg",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_touran",
+      "brand_id": "volkswagen",
+      "model_name": "Touran",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_transporter",
+      "brand_id": "volkswagen",
+      "model_name": "Transporter",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volkswagen_up!",
+      "brand_id": "volkswagen",
+      "model_name": "Up!",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_c30",
+      "brand_id": "volvo",
+      "model_name": "C30",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_c40",
+      "brand_id": "volvo",
+      "model_name": "C40",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_c70",
+      "brand_id": "volvo",
+      "model_name": "C70",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_ex30",
+      "brand_id": "volvo",
+      "model_name": "EX30",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_ex40",
+      "brand_id": "volvo",
+      "model_name": "EX40",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_ex90",
+      "brand_id": "volvo",
+      "model_name": "EX90",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_p1800_cyan",
+      "brand_id": "volvo",
+      "model_name": "P1800 Cyan",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_s40_v50",
+      "brand_id": "volvo",
+      "model_name": "S40 / V50",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_v40_v40_cc",
+      "brand_id": "volvo",
+      "model_name": "V40 / V40 CC",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_s60_v60",
+      "brand_id": "volvo",
+      "model_name": "S60 / V60",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_v70",
+      "brand_id": "volvo",
+      "model_name": "V70",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_s80",
+      "brand_id": "volvo",
+      "model_name": "S80",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_s90_v90",
+      "brand_id": "volvo",
+      "model_name": "S90 / V90",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_xc_40",
+      "brand_id": "volvo",
+      "model_name": "XC 40",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_xc_60",
+      "brand_id": "volvo",
+      "model_name": "XC 60",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_xc_70",
+      "brand_id": "volvo",
+      "model_name": "XC 70",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    },
+    {
+      "model_id": "volvo_xc_90",
+      "brand_id": "volvo",
+      "model_name": "XC 90",
+      "engine_id": null,
+      "year_from": null,
+      "year_to": null,
+      "photo_file": null
+    }
+  ],
+  "engines": {
+    "vag_20tdi_150": {
+      "engine_id": "vag_20tdi_150",
+      "engine_name": "2.0 TDI 150hp (EA288)"
+    },
+    "bmw_b47_190": {
+      "engine_id": "bmw_b47_190",
+      "engine_name": "2.0d B47 190hp"
+    },
+    "mercedes_om654_200": {
+      "engine_id": "mercedes_om654_200",
+      "engine_name": "2.0d OM654 200hp"
+    }
+  },
+  "stages": {
+    "vag_20tdi_150": {
+      "1": {
+        "orig_hp": 150,
+        "orig_torque": 340,
+        "tuned_hp": 185,
+        "tuned_torque": 400
+      },
+      "2": {
+        "orig_hp": 150,
+        "orig_torque": 340,
+        "tuned_hp": 210,
+        "tuned_torque": 440
+      },
+      "3": null
+    },
+    "bmw_b47_190": {
+      "1": {
+        "orig_hp": 190,
+        "orig_torque": 400,
+        "tuned_hp": 230,
+        "tuned_torque": 480
+      },
+      "2": {
+        "orig_hp": 190,
+        "orig_torque": 400,
+        "tuned_hp": 260,
+        "tuned_torque": 530
+      },
+      "3": null
+    },
+    "mercedes_om654_200": {
+      "1": {
+        "orig_hp": 200,
+        "orig_torque": 440,
+        "tuned_hp": 240,
+        "tuned_torque": 500
+      },
+      "2": null,
+      "3": null
+    }
+  }
+}

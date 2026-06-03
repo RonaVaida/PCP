@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact — Power Code Performance</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header>
+    <div class="header-inner">
+      <a class="logo-wrap" href="index.html">
+        <img src="images/logo.png" alt="Power Code Performance" />
+        <span class="tagline">by PitStop</span>
+      </a>
+      <nav>
+        <a href="index.html">Brands</a>
+        <a href="contact.html" class="active">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <!-- HERO -->
+  <div class="hero-strip">
+    <h1>Get in <span>Touch</span></h1>
+    <p>Ready to unlock your car's true potential? Send us a message and we'll get back to you shortly.</p>
+  </div>
+
+  <!-- MAIN -->
+  <main>
+    <div class="contact-layout">
+
+      <!-- FORM -->
+      <div class="contact-form-card">
+        <h2>Send us a <span style="color:var(--red)">Message</span></h2>
+        <form id="contactForm" action="https://formsubmit.co/info@pitstop.co.il" method="POST">
+          <!-- FormSubmit config -->
+          <input type="hidden" name="_subject" value="New inquiry from Power Code Performance website" />
+          <input type="hidden" name="_captcha" value="false" />
+          <input type="hidden" name="_template" value="table" />
+          <input type="text" name="_honey" style="display:none" />
+
+          <div class="form-group">
+            <label for="name">Full Name</label>
+            <input type="text" id="name" name="name" placeholder="Your name" required />
+          </div>
+
+          <div class="form-group">
+            <label for="phone">Phone / WhatsApp</label>
+            <input type="tel" id="phone" name="phone" placeholder="+972-XX-XXXXXXX" />
+          </div>
+
+          <div class="form-group">
+            <label for="email">Email Address</label>
+            <input type="email" id="email" name="email" placeholder="your@email.com" required />
+          </div>
+
+          <div class="form-group">
+            <label for="car">Your Car</label>
+            <input type="text" id="car" name="car" placeholder="e.g. BMW 320d 2020" />
+          </div>
+
+          <div class="form-group">
+            <label for="stage">Interested Stage</label>
+            <select id="stage" name="stage">
+              <option value="">Not sure yet</option>
+              <option value="Stage 1">Stage 1</option>
+              <option value="Stage 2">Stage 2</option>
+              <option value="Stage 3">Stage 3</option>
+            </select>
+          </div>
+
+          <div class="form-group">
+            <label for="message">Message</label>
+            <textarea id="message" name="message" rows="4" placeholder="Tell us about your goals or questions…"></textarea>
+          </div>
+
+          <button type="submit" class="submit-btn">Send Message</button>
+        </form>
+      </div>
+
+      <!-- SIDEBAR -->
+      <div class="contact-sidebar">
+
+        <div class="contact-info-card">
+          <h3>Contact Info</h3>
+          <div class="contact-row">
+            <div class="contact-icon">✉️</div>
+            <div>
+              <div style="font-size:12px;color:var(--muted);margin-bottom:2px">EMAIL</div>
+              <a href="mailto:info@pitstop.co.il" style="color:var(--red)">info@pitstop.co.il</a>
+            </div>
+          </div>
+          <div class="contact-row">
+            <div class="contact-icon">📞</div>
+            <div>
+              <div style="font-size:12px;color:var(--muted);margin-bottom:2px">PHONE / WHATSAPP</div>
+              <a href="tel:+972549326225" style="color:var(--white)">+972-54-932-6225</a>
+            </div>
+          </div>
+        </div>
+
+        <a class="whatsapp-btn" href="https://wa.me/972549326225?text=Hi!%20I'm%20interested%20in%20chip%20tuning%20for%20my%20car." target="_blank">
+          <svg width="24" height="24" viewBox="0 0 32 32" fill="white" xmlns="http://www.w3.org/2000/svg">
+            <path d="M16 2C8.268 2 2 8.268 2 16c0 2.46.643 4.767 1.77 6.77L2 30l7.44-1.74A13.94 13.94 0 0016 30c7.732 0 14-6.268 14-14S23.732 2 16 2zm0 25.6a11.55 11.55 0 01-5.9-1.61l-.42-.25-4.42 1.03 1.06-4.3-.28-.44A11.56 11.56 0 014.4 16c0-6.4 5.2-11.6 11.6-11.6S27.6 9.6 27.6 16 22.4 27.6 16 27.6zm6.36-8.68c-.35-.17-2.07-1.02-2.39-1.14-.32-.12-.55-.17-.78.17-.23.35-.9 1.14-1.1 1.37-.2.23-.4.26-.75.09-.35-.17-1.48-.55-2.82-1.74-1.04-.93-1.74-2.08-1.95-2.43-.2-.35-.02-.54.15-.71.16-.16.35-.4.52-.6.17-.2.23-.35.35-.58.12-.23.06-.43-.03-.6-.09-.17-.78-1.88-1.07-2.57-.28-.68-.57-.58-.78-.59h-.66c-.23 0-.6.09-.91.43-.32.35-1.2 1.17-1.2 2.86s1.23 3.32 1.4 3.55c.17.23 2.42 3.7 5.87 5.19.82.35 1.46.56 1.96.72.82.26 1.57.22 2.16.13.66-.1 2.07-.85 2.36-1.66.29-.82.29-1.52.2-1.66-.08-.14-.31-.23-.66-.4z"/>
+          </svg>
+          Chat on WhatsApp
+        </a>
+
+        <div class="contact-info-card">
+          <h3>Why choose us?</h3>
+          <div style="font-size:14px;color:var(--muted);line-height:1.7;margin-top:4px">
+            ✅ Professional ECU remapping<br/>
+            ✅ Stage 1, 2 &amp; 3 solutions<br/>
+            ✅ Dyno tested results<br/>
+            ✅ Warranty-friendly tunes available<br/>
+            ✅ All major brands supported
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    <div class="footer-inner">
+      <div class="footer-logo"><img src="images/logo.png" alt="PCP" /></div>
+      <div class="footer-copy">&copy; 2024 <span>Power Code Performance</span> — by PitStop. All rights reserved.</div>
+    </div>
+  </footer>
+
+  <script>
+    // Simple confirmation after submit
+    document.getElementById('contactForm').addEventListener('submit', () => {
+      setTimeout(() => {
+        const btn = document.querySelector('.submit-btn');
+        btn.textContent = 'Sent! ✓';
+        btn.style.background = '#2ecc71';
+      }, 100);
+    });
+  </script>
+</body>
+</html>
